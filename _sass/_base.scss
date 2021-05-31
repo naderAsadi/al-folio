@@ -223,9 +223,10 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid $grey-color-light;
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 0.75rem;
+  text-align: center;
 }
 
 
