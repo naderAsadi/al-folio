@@ -170,10 +170,14 @@ a, table.table a {
 .news table td {
   font-size: 1rem;
   color: var(--global-text-color);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .news table th {
   color: var(--global-text-color);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 // Social (bottom)
